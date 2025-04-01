@@ -7,7 +7,7 @@ SANd is a prototype implementation of a new secure point-to-point networking par
 - **End-to-End Encryption:** Protects data integrity and confidentiality.
 - **Dynamic Segmentation:** Real-time network segmentation.
 - **Backward Compatibility:** Lightweight integration with BusyBox environments.
-- **Hardware Abstraction:** Interfaces for isooptic and spintronic hardware.
+- **Hardware Abstraction:** Interfaces for quantum, isooptic and spintronic hardware.
 - **Comprehensive Error Checking:** Robust fault detection and recovery.
 
 ## Repository Structure
