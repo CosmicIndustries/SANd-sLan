@@ -1,0 +1,10 @@
+# cryptography provides Fernet for symmetric encryption
+cryptography>=3.0
+
+# (Optional) For future HTTP APIs or CLI enhancements, consider:
+# Flask>=1.1.2
+# Click>=7.1.2
+
+# (Optional) For running tests or additional utilities, consider:
+# pytest>=6.0.0
+# pyenv
