@@ -38,3 +38,12 @@ sLAN is a lightweight, secure LAN solution designed for high-speed, low-latency 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sLAN.git
+
+2. Install the required dependencies:
+
+            pip install -r requirements.txt
+   
+3. Run the sLAN prototype:
+ 
+            python src/slan.py
+   
